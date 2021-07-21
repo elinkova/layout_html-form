@@ -1,1 +1,17 @@
 /* styles go here */
+/* body {
+  margin: 0 10px;
+} */
+
+.form-field {
+  margin: 5.6px 0 10px;
+}
+
+.field-group {
+  margin: 0 2px 20px;
+  padding: 0 12px;
+}
+
+.button {
+  margin: 0 2px 20px;
+}
